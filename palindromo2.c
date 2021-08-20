@@ -1,5 +1,4 @@
-/* Programa que pide al usuario el tamaño de un arreglo de tipo entero, y los valores del mismo.
-	para determinar si es un numero palindromo o no.
+/* Programa que pide al usuario que ingrese un numero, para determinar si es un numero palindromo o no.
 	Autor: Carlos Angel Martinez Garcia.
 	Programa: palindromo2.c 
 	Fecha: 19-Ago-2021   */
